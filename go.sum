@@ -78,6 +78,8 @@ github.com/AzureAD/microsoft-authentication-library-for-go v1.0.0/go.mod h1:kgDm
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/DATA-DOG/go-sqlmock v1.4.1/go.mod h1:f/Ixk793poVmq4qj/V1dPUg2JEAKC73Q5eFN3EC/SaM=
+github.com/DNSMadeEasy/dme-go-client v1.11.3 h1:C41hUr2qz2LYZai+T0nw7fZo6nIsry0MwiRhaeNnguI=
+github.com/DNSMadeEasy/dme-go-client v1.11.3/go.mod h1:n7ufaLKNTNrFFHLCaKE9S12Xd6/3u0duR0VTKms4Kuo=
 github.com/DATA-DOG/go-sqlmock v1.5.0/go.mod h1:f/Ixk793poVmq4qj/V1dPUg2JEAKC73Q5eFN3EC/SaM=
 github.com/DNSMadeEasy/dme-go-client v1.11.3 h1:C41hUr2qz2LYZai+T0nw7fZo6nIsry0MwiRhaeNnguI=
 github.com/DNSMadeEasy/dme-go-client v1.11.3/go.mod h1:n7ufaLKNTNrFFHLCaKE9S12Xd6/3u0duR0VTKms4Kuo=
