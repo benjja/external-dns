@@ -8,6 +8,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.3.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/dns/armdns v1.1.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/privatedns/armprivatedns v1.1.0
+	github.com/DNSMadeEasy/dme-go-client v1.11.3
 	github.com/F5Networks/k8s-bigip-ctlr/v2 v2.13.1
 	github.com/IBM-Cloud/ibm-cloud-cli-sdk v1.1.0
 	github.com/IBM/go-sdk-core/v5 v5.13.4
@@ -81,6 +82,8 @@ require (
 )
 
 require (
+	4d63.com/embedfiles v0.0.0-20190311033909-995e0740726f // indirect
+	4d63.com/tz v1.2.0 // indirect
 	cloud.google.com/go/compute v1.20.1 // indirect
 	code.cloudfoundry.org/gofileutils v0.0.0-20170111115228-4d0c80011a0f // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/internal v1.3.0 // indirect
