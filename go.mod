@@ -11,7 +11,6 @@ require (
 	github.com/DNSMadeEasy/dme-go-client v1.11.3
 	github.com/F5Networks/k8s-bigip-ctlr/v2 v2.13.1
 	github.com/IBM-Cloud/ibm-cloud-cli-sdk v1.1.0
-	github.com/DNSMadeEasy/dme-go-client v1.10.11
 	github.com/IBM/go-sdk-core/v5 v5.13.4
 	github.com/IBM/networking-go-sdk v0.42.2
 	github.com/akamai/AkamaiOPEN-edgegrid-golang v1.2.2
@@ -86,8 +85,6 @@ require (
 	4d63.com/embedfiles v0.0.0-20190311033909-995e0740726f // indirect
 	4d63.com/tz v1.2.0 // indirect
 	cloud.google.com/go/compute v1.20.1 // indirect
-	4d63.com/embedfiles v0.0.0-20190311033909-995e0740726f // indirect
-	4d63.com/tz v1.2.0 // indirect
 	code.cloudfoundry.org/gofileutils v0.0.0-20170111115228-4d0c80011a0f // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/internal v1.3.0 // indirect
 	github.com/AzureAD/microsoft-authentication-library-for-go v1.0.0 // indirect
