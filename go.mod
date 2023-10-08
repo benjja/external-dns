@@ -8,7 +8,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.3.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/dns/armdns v1.1.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/privatedns/armprivatedns v1.1.0
-	github.com/DNSMadeEasy/dme-go-client v1.10.11
+	github.com/DNSMadeEasy/dme-go-client v1.11.3
 	github.com/F5Networks/k8s-bigip-ctlr/v2 v2.13.1
 	github.com/IBM-Cloud/ibm-cloud-cli-sdk v1.1.0
 	github.com/IBM/go-sdk-core/v5 v5.13.4
